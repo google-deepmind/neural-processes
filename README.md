@@ -31,7 +31,7 @@ given the same context.
 
 ## Citing CNPs
 
-If you like our work and end up using CNPs for your reseach give us a shout-out:
+If you like our work and end up using CNPs for your research give us a shout-out:
 
 Garnelo M, Rosenbaum D, Maddison CJ, Ramalho T, Saxton D, Shanahan M, Teh YW,
 Rezende DJ, Eslami SM. Conditional Neural Processes. In International Conference
