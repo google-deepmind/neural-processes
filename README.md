@@ -1,13 +1,24 @@
-# Conditional Neural Processes
+# The Neural Process Family
 
-We provide a notebook implementation of Conditional Neural Processes (CNPs) that
-can be run in the browser. The notebook includes an overview of the different
-building blocks of the model and the code to run it. Any further details can be
-found in our [paper](https://arxiv.org/pdf/1807.01613.pdf).
+This repository contains notebook implementations of the following Neural Process variants:
+
+*   Conditional Neural Processes (CNPs)
+*   Neural Processes (NPs)
+*   Attentive Neural Processes (ANPs)
+
+The code for CNPs can be found in `conditional_neural_process.ipynb` while the
+code for both NPs and ANPs is located in `attentive_neural_process.ipynb`.
+
+The
+notebooks include an overview of the different building blocks of the models
+as well as the code to run each model in the browser. Any further details
+can be found in the [CNP paper](https://arxiv.org/pdf/1807.01613.pdf), the
+[NP paper](https://arxiv.org/pdf/1807.01622.pdf) and the
+[ANP paper](https://arxiv.org/pdf/1901.05761.pdf).
 
 ## Quick run
 
-The easiest way to run the code is to download the `.ipynb` file and upload it
+The easiest way to run the code is to download the `.ipynb` files and upload them
 to [Colab](https://colab.research.google.com/). Colaboratory is a free Jupyter
 notebook environment provided by Google that requires no setup and runs entirely
 in the cloud. The hosted runtime already includes the following dependencies:
@@ -16,26 +27,23 @@ in the cloud. The hosted runtime already includes the following dependencies:
 *   Tensorflow
 *   Matplotlib
 
-which are all we need to run CNPs.
+which are all we need to run the code in this repository.
 
-Alternative you can open the `.ipynb` file using
+Alternatively, you can open the `.ipynb` files using
 [Jupyter notebook](http://jupyter.org/install.html). If you do this you will
 also have to set up a local kernel that includes Tensorflow.
 
-## If you enjoy conditional neural processes...
-
-... you might like our follow up work
-[Neural Processes](https://arxiv.org/pdf/1807.01622.pdf), where we introduce a
-latent variable version of CNPs that allows us to generate different samples
-given the same context.
-
 ## Citing CNPs
 
-If you like our work and end up using CNPs for your reseach give us a shout-out:
+If you like our work and end up using neural processes for your reseach give us a shout-out:
 
-Garnelo M, Rosenbaum D, Maddison CJ, Ramalho T, Saxton D, Shanahan M, Teh YW,
-Rezende DJ, Eslami SM. Conditional Neural Processes. In International Conference
+1. **Conditional Neural Processes**: Garnelo M, Rosenbaum D, Maddison CJ, Ramalho T, Saxton D, Shanahan M, Teh YW,
+Rezende DJ, Eslami SM. *Conditional Neural Processes*. In International Conference
 on Machine Learning 2018.
+
+1. **Neural Processes**: Garnelo, M., Schwarz, J., Rosenbaum, D., Viola, F., Rezende, D.J., Eslami, S.M. and Teh, Y.W. *Neural processes*. ICML Workshop on Theoretical Foundations and Applications of Deep Generative Models
+
+1. **Attentive Neural Processes**: Kim, H., Mnih, A., Schwarz, J., Garnelo, M., Eslami, A., Rosenbaum, D., Vinyals, O. and Teh, Y.W. *Attentive Neural Processes*. In International Conference on Learning Representations 2019.
 
 ## Contact
 
