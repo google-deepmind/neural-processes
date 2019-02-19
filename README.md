@@ -18,9 +18,8 @@ can be found in the [CNP paper](https://arxiv.org/pdf/1807.01613.pdf), the
 
 ## Quick run
 
-The easiest way to run the code is to download the `.ipynb` files and upload them
-to [Colab](https://colab.research.google.com/). Colaboratory is a free Jupyter
-notebook environment provided by Google that requires no setup and runs entirely
+The easiest way to run the code is to run it in the browser on [Colab](https://colab.sandbox.google.com/github/deepmind/neural-processes/blob/master/attentive_neural_process.ipynb). 
+Colaboratory is a free Jupyter notebook environment provided by Google that requires no setup and runs entirely
 in the cloud. The hosted runtime already includes the following dependencies:
 
 *   Numpy
