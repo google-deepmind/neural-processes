@@ -45,7 +45,7 @@ If you like our work and end up using neural processes for your reseach give us 
 Rezende DJ, Eslami SM. *Conditional Neural Processes*. In International Conference
 on Machine Learning 2018.
 
-1. **Neural Processes**: Garnelo, M., Schwarz, J., Rosenbaum, D., Viola, F., Rezende, D.J., Eslami, S.M. and Teh, Y.W. *Neural processes*. ICML Workshop on Theoretical Foundations and Applications of Deep Generative Models
+1. **Neural Processes**: Garnelo, M., Schwarz, J., Rosenbaum, D., Viola, F., Rezende, D.J., Eslami, S.M. and Teh, Y.W. *Neural processes*. ICML Workshop on Theoretical Foundations and Applications of Deep Generative Models 2018.
 
 1. **Attentive Neural Processes**: Kim, H., Mnih, A., Schwarz, J., Garnelo, M., Eslami, A., Rosenbaum, D., Vinyals, O. and Teh, Y.W. *Attentive Neural Processes*. In International Conference on Learning Representations 2019.
 
