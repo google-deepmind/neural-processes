@@ -25,11 +25,11 @@ Here below are the links to each of the notebooks in Colab:
 * [(Attentive) Neural Processes](https://colab.sandbox.google.com/github/deepmind/neural-processes/blob/master/attentive_neural_process.ipynb)
 
 Colaboratory is a free Jupyter notebook environment provided by Google that requires no setup and runs entirely
-in the cloud. The hosted runtime already includes the following dependencies:
+in the cloud. The hosted runtime already includes the following dependencies, tested on the following versions in brackets:
 
-*   Numpy
-*   Tensorflow
-*   Matplotlib
+*   Numpy (1.14.6)
+*   Tensorflow (1.13.1)
+*   Matplotlib (2.2.4)
 
 which are all we need to run the code in this repository.
 
