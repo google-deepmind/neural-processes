@@ -51,7 +51,7 @@ on Machine Learning 2018.
 
 ## Contact
 
-Any feedback is much appreciated! Drop us a line at garnelo@google.com
+Any feedback is much appreciated! Drop us a line at garnelo@google.com (Conditional Neural Process) or hyunjikk@google.com ((Attentive) Neural Process).
 
 ## Disclaimer
 
